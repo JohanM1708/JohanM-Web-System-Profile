@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | Johan Melo, Estudiante,(https://johanm1708.github.io/JohanM-Web-System-Profile/) |
+| About |  I am a Systems Engineering student at UniEspinal, interested in web development, software projects. I enjoy creating applications that solve real-world problems and learning new technologies. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
